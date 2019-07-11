@@ -23,13 +23,10 @@
     "url": "http://www.example.com"
   },
   "links": {
-    "self": "http://github.com/dbennett-freshly/app/connect.json"
+    "self": "http://raw.githubusercontent.com/dbennett-freshly/app/connect.json"
   },
-  "lifecycle": {
-    "installed": "/installed",
-    "uninstalled": "/uninstalled"
-  },
-  "baseUrl": "http://github.com/dbennett-freshly/app/",
+  "lifecycle": {},
+  "baseUrl": "raw.githubusercontent/dbennett-freshly/app/",
   "authentication": {
     "type": "jwt"
   },
