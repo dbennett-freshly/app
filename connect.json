@@ -20,13 +20,13 @@
   "description": "A connect app that does something",
   "vendor": {
     "name": "My Company",
-    "url": "http://www.example.com"
+    "url": "https://www.example.com"
   },
   "links": {
-    "self": "http://raw.githubusercontent.com/dbennett-freshly/app/connect.json"
+    "self": "https://raw.githubusercontent.com/dbennett-freshly/app/connect.json"
   },
   "lifecycle": {},
-  "baseUrl": "http://raw.githubusercontent.com/dbennett-freshly/app/",
+  "baseUrl": "https://raw.githubusercontent.com/dbennett-freshly/app/",
   "authentication": {
     "type": "none"
   },
