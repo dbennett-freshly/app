@@ -2,7 +2,7 @@
  "modules": {
     "generalPages": [
       {
-        "url": "/general-page",
+        "url": "http://www.google.com",
         "icon": {
           "width": 80,
           "height": 80,
