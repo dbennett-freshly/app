@@ -26,7 +26,7 @@
     "self": "http://raw.githubusercontent.com/dbennett-freshly/app/connect.json"
   },
   "lifecycle": {},
-  "baseUrl": "http://raw.githubusercontent/dbennett-freshly/app/",
+  "baseUrl": "http://raw.githubusercontent.com/dbennett-freshly/app/",
   "authentication": {
     "type": "jwt"
   },
