@@ -2,14 +2,14 @@
  "modules": {
     "generalPages": [
       {
-        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "url": "/foo.html",
         "icon": {
           "width": 80,
           "height": 80,
           "url": "/maps/icon.png"
         },
         "name": {
-          "value": "My General Page"
+          "value": "Status"
         },
         "key": "general-page"
       }
