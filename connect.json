@@ -23,10 +23,10 @@
     "url": "https://www.example.com"
   },
   "links": {
-    "self": "https://raw.githubusercontent.com/dbennett-freshly/app/connect.json"
+    "self": "https://dbennett-freshly.github.io/app/connect.json"
   },
   "lifecycle": {},
-  "baseUrl": "https://raw.githubusercontent.com/dbennett-freshly/app/",
+  "baseUrl": "https://dbennett-freshly.github.io/app/",
   "authentication": {
     "type": "none"
   },
