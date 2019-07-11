@@ -28,7 +28,7 @@
   "lifecycle": {},
   "baseUrl": "http://raw.githubusercontent.com/dbennett-freshly/app/",
   "authentication": {
-    "type": "jwt"
+    "type": "none"
   },
   "enableLicensing": false,
   "scopes": [
