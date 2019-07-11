@@ -1,0 +1,40 @@
+{
+ "modules": {
+    "generalPages": [
+      {
+        "url": "/general-page",
+        "icon": {
+          "width": 80,
+          "height": 80,
+          "url": "/maps/icon.png"
+        },
+        "name": {
+          "value": "My General Page"
+        },
+        "key": "general-page"
+      }
+    ],
+  },
+  "key": "app-key",
+  "name": "My Connect App",
+  "description": "A connect app that does something",
+  "vendor": {
+    "name": "My Company",
+    "url": "http://www.example.com"
+  },
+  "links": {
+    "self": "http://github.com/dbennett-freshly/app/connect.json"
+  },
+  "lifecycle": {
+    "installed": "/installed",
+    "uninstalled": "/uninstalled"
+  },
+  "baseUrl": "http://github.com/dbennett-freshly/app/",
+  "authentication": {
+    "type": "jwt"
+  },
+  "enableLicensing": false,
+  "scopes": [
+    
+  ]
+}
