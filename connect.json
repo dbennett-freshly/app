@@ -6,21 +6,21 @@
         "icon": {
           "width": 80,
           "height": 80,
-          "url": "/maps/icon.png"
+          "url": "/jira-favicon-hires.png"
         },
         "name": {
-          "value": "Status"
+          "value": "Freshly status"
         },
         "key": "general-page"
       }
     ]
   },
   "key": "app-key",
-  "name": "My Connect App",
-  "description": "A connect app that does something",
+  "name": "Freshly status",
+  "description": "An app providing important status information",
   "vendor": {
-    "name": "My Company",
-    "url": "https://www.example.com"
+    "name": "Freshly",
+    "url": "https://www.freshly.com"
   },
   "links": {
     "self": "https://dbennett-freshly.github.io/app/connect.json"
